@@ -39,7 +39,3 @@ Após todas as transformações e cálculos, foram originados 4 paines, que inte
 ### 5. Dashboard Finalizado
 #### Screenshots
 
-![image](https://github.com/user-attachments/assets/c35666cb-488d-439d-8606-0d1806045c35)
-![image](https://github.com/user-attachments/assets/0bb83554-7c7a-4a2c-b310-fcb8174f0498)
-![image](https://github.com/user-attachments/assets/707b0005-a160-48fb-9188-8ef5cbfb7ef0)
-![image](https://github.com/user-attachments/assets/7d6b52ef-999c-4334-86f3-d4fb858c54f6)
